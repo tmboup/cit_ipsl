@@ -1,3 +1,5 @@
+#fenix
+
 #Ce programme implemente la recherche par dichotomie sur un tableau trie.
 #Il retourne 1 si la valeur est trouve et 0 si la valeur n'est pas trouve.
 
